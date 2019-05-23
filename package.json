@@ -1,0 +1,23 @@
+{
+  "name": "mock-backend",
+  "version": "1.0.0",
+  "description": "Mock backend for financial advisor application",
+  "main": "mock.js",
+  "scripts": {
+    "start": "node mock.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "sync-request": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damiansf/financialAdvisor"
+  },
+  "keywords": [
+    "mock backend"
+  ],
+  "author": "Damian Sandhu-Franceschi",
+  "license": "ISC"
+}
