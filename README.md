@@ -3,4 +3,6 @@ NodeJs "mock" backend template project.
 
 Used to mock a backend microservice.
 
+Run docker build . to build the image locally, then run docker run -p 8080:8080 mockbackend to start up the server.
+
 
