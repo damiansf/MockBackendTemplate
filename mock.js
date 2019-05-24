@@ -16,7 +16,7 @@ var server = app.listen(8080, function () {
 
 })
 
-app.post('/DoStuff', function (req, res) {
+app.get('/DoStuff', function (req, res) {
    fs.readFile( __dirname + "/jsonFiles/" + "Sample.json", 'utf8', function (err, data) {
        console.log( data );
        res.end( data );
