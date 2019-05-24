@@ -13,4 +13,6 @@ to build the image locally, then run:
 
 to start up the server.
 
+Go to http://localhost:8080/DoStuff to see the sample endpoint response
+
 
