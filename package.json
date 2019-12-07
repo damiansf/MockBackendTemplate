@@ -7,17 +7,16 @@
     "start": "node mock.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.1",
-    "sync-request": "^4.1.0"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/damiansf/financialAdvisor"
+    "url": "https://github.com/damiansf/MockBackendTemplate"
   },
   "keywords": [
     "mock backend"
   ],
   "author": "Damian Sandhu-Franceschi",
-  "license": "ISC"
+  "license": "MIT"
 }
